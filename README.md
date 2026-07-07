@@ -1,8 +1,3 @@
-Quá tốt — mình đã viết lại theo đúng yêu cầu: **tập trung 2 dự án chính**, mô tả kỹ theo CV của bạn, bỏ phần GitHub stats, giữ phong cách chuyên nghiệp.
-
-Bạn dùng trực tiếp nội dung `README.md` dưới đây:
-
-````markdown name=README.md
 <div align="center">
 
 # Hi there, I'm **Nguyen Phuc Anh** 👋
@@ -106,6 +101,3 @@ Airflow, Kafka, Apache Spark, MinIO, Apache Iceberg, ClickHouse, PostgreSQL, Fas
 <div align="center">
   <sub>Designing data platforms that convert Vietnamese stock market data into actionable intelligence.</sub>
 </div>
-````
-
-Nếu bạn muốn, mình có thể làm thêm 1 bản **song ngữ Việt–Anh** (rất hợp khi recruiter quốc tế vào profile).
